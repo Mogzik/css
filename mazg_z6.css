@@ -6,16 +6,13 @@
 @import url("mazg_z5_1.css");
 </style>
 </head>
-<body bgcolor="silver">
-body{
-  color: blue;
-  font-size: 30px;
-}
-:)
-<p> :(</p>
-p{
-color: purple;
-font-size: 78px;
-}
+<body bgcolor="silver" style="color: blue; font-size: 30px">
+
+<p style="color: green; font-size: 20px">:) uśmiechnięta buźka</p>
+:( smutna buźka
+<p style="color: green; font-size: 20px">:o zaskoczenie</p>
+:P wytknięty języczek
+<p style="color: green; font-size: 20px">-_- podej</p>
+;) oczko
 </body>
 </html>
