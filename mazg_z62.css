@@ -1,0 +1,23 @@
+body {
+    background-color: silver;
+}
+
+p
+{
+font-size:7mm;
+color:rgb(128,128,128);
+}
+p:lang(pl)
+{
+font-weight:bold;
+color:rgb(255,165,0);
+font-size: 8mm;
+}
+p:lang(en)
+{
+font-style:italic;
+color: rgb(144,238,144);
+font-size: 12mm;
+}
+
+/*Maksymilian Mazgaj*/
