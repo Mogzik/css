@@ -1,1 +1,41 @@
+div {
+    margin:20px;
+}
+p {
+    font-size:10pt;
+    }
+    
+    p:first-child {
+        font-size: 9mm;
+        font-style: italic;
+    }
 
+
+    
+    #pierwszy_mazgaj {
+        width: 772pt;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: lightblue;
+        border: 5px solid navy;
+        border-radius: 18px;
+    }
+    
+    #drugi_mazgaj {
+        width: 972pt;
+        background-color: pink;
+        border-radius: 13px;
+        border: 3px solid black;
+    }
+    
+    #trzeci_mazgaj {
+        width: 1172pt;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: lightgreen;
+        border-radius: 18px;
+        border: 7px solid purple;
+        
+    }
+    
+    /*Maksymilian Mazgaj*/
