@@ -1,0 +1,19 @@
+.nazwisko:first-letter {
+  font-size: 120pt;
+  color: silver;
+}
+
+.nazwisko {
+  font-size: 26pt;
+  color: lightgreen;
+}
+
+.imie::first-letter {
+  font-size: 120pt;
+  color: orange;
+}
+
+.imie {
+  font-size: 19pt;
+  color: lightgreen;
+}
