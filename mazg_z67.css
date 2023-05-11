@@ -1,19 +1,76 @@
-.nazwisko:first-letter {
-  font-size: 120pt;
-  color: silver;
+p#je:first-letter {
+	
+	font-size:120pt;
+	color: silver;
+	
+	
+	
+	
 }
 
-.nazwisko {
-  font-size: 26pt;
-  color: lightgreen;
+p#dw:first-letter {
+	
+	font-size:118pt;
+	color: orange;
+	
+	
+	
 }
 
-.imie::first-letter {
-  font-size: 120pt;
-  color: orange;
+p#je {
+	
+font-size:26pt;	
+color: lightgreen;
+	
+	
+	
 }
 
-.imie {
-  font-size: 19pt;
-  color: lightgreen;
+
+p#dw{
+	
+	
+	font-size:19pt;
+	color: lightgreen;
+	
+	
+}
+
+h1 {
+	
+	color: rgb(100, 0,180);
+	
+}
+
+
+h1:first-letter {
+	
+	color:rgb(170,170,170);
+	font-size:120pt;
+	
+	
+}
+
+
+p#trz {
+	
+	color: lightgreen;
+	font-size:20pt;
+	
+	
+	
+}
+
+p#trz:first-line {
+	
+	color:rgb(255,0,0);
+	
+	
+	
+}
+
+p#trz:first-letter {
+	
+	font-size:120pt;
+	
 }
