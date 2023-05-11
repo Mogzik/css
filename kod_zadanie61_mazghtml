@@ -1,0 +1,35 @@
+<html>
+  <head>
+  </head>
+  <body>
+  </body>
+  <TEXTAREA COLS="60" ROWS="60">
+    <!DOCTYPE html>
+<html>
+<head>
+<title>zadanie 60-Mazgaj</title>
+<meta charset="utf-8" />
+<link rel="stylesheet" type="text/css" href="mazg_z60.css" />
+
+</head>
+<body>
+
+<div id="blok1">
+    blok1_mazgaj
+</div>
+
+<div id="blok2">
+    blok2_mazgaj
+</div>
+
+<div id="blok3">
+    blok3_mazgaj
+</div>
+
+
+
+</body>
+</html>
+<!-- Maksymilian Mazgaj -->
+    </TEXTAREA>
+</html>
